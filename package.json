@@ -35,6 +35,11 @@
   "license": "MIT",
   "author": "Bruce Anderson <anderson.bruce.b@gmail.com>",
   "type": "module",
-  "main": "be-directive.js"
-
+  "main": "be-directive.js",
+  "module": "be-directive.js",
+  "exports":{
+    ".": "./be-directive.js",
+    "./be-directive.js": "./be-directive.js",
+    "./🗃️.js": "./🗃️.js"
+  }
 }
