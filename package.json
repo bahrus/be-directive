@@ -17,8 +17,8 @@
     "url": "git+https://github.com/bahrus/be-directive.git"
   },
   "dependencies": {
-    "be-enhanced": "0.0.179",
-    "be-hive": "0.0.260",
+    "be-enhanced": "0.0.181",
+    "be-hive": "0.0.261",
     "mount-observer": "0.0.76",
     "trans-render": "0.0.908"
   },
