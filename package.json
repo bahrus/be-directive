@@ -1,11 +1,17 @@
 {
   "name": "be-directive",
   "version": "0.0.0",
-  "description": "",
+  "description": "Enhances an HTML button so that it prompts the user to pick a local directory / folder, and provides a reference to the chosen directory (FileSystemDirectoryHandle).",
   "homepage": "https://github.com/bahrus/be-directive#readme",
   "bugs": {
     "url": "https://github.com/bahrus/be-directive/issues"
   },
+  "files": [
+    "*.js",
+    "./ts-refs/be-directive/types.d.ts",
+    "README.md"
+  ],
+  "types": "./ts-refs/be-directive/types.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bahrus/be-directive.git"
@@ -27,7 +33,7 @@
     "update": "ncu -u && npm install"
   },
   "license": "MIT",
-  "author": "",
+  "author": "Bruce Anderson <anderson.bruce.b@gmail.com>",
   "type": "module",
   "main": "be-directive.js"
 

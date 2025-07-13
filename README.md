@@ -1,5 +1,11 @@
 # be-directive (🗃️)
 
+[![NPM version](https://badge.fury.io/js/be-directive.png)](http://badge.fury.io/js/be-directive)
+[![How big is this package in your project?](https://img.shields.io/bundlephobia/minzip/be-directive?style=for-the-badge)](https://bundlephobia.com/result?p=be-directive)
+<img src="http://img.badgesize.io/https://cdn.jsdelivr.net/npm/be-directive?compression=gzip">
+
+Enhances an HTML button so that it prompts the user to pick a local directory / folder, and provides a reference to the chosen directory (FileSystemDirectoryHandle).
+
 ```html
 <button 🗃️>Pick directory</button>
 ```
