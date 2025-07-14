@@ -17,10 +17,10 @@
     "url": "git+https://github.com/bahrus/be-directive.git"
   },
   "dependencies": {
-    "be-enhanced": "0.0.181",
-    "be-hive": "0.0.261",
+    "be-enhanced": "0.0.182",
+    "be-hive": "0.0.262",
     "mount-observer": "0.0.76",
-    "trans-render": "0.0.908"
+    "trans-render": "0.0.909"
   },
   "devDependencies": {
     "@playwright/test": "1.54.1",
