@@ -8,8 +8,8 @@ import { emc as baseEMC } from './emc.js';
  */
 export const emc = {
     ...baseEMC,
-    base: '🗃️',
-    enhPropKey: '🗃️',
+    base: '📂⛏️',
+    enhPropKey: '📂⛏️',
 };
 const mose = seed(emc);
 MountObserver.synthesize(document, BeHive, mose);

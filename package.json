@@ -17,13 +17,13 @@
     "url": "git+https://github.com/bahrus/be-directive.git"
   },
   "dependencies": {
-    "be-enhanced": "0.0.182",
-    "be-hive": "0.0.262",
-    "mount-observer": "0.0.76",
-    "trans-render": "0.0.909"
+    "be-enhanced": "0.0.183",
+    "be-hive": "0.0.263",
+    "mount-observer": "0.0.88",
+    "trans-render": "0.0.921"
   },
   "devDependencies": {
-    "@playwright/test": "1.54.1",
+    "@playwright/test": "1.54.2",
     "ssi-server": "0.0.1"
   },
   "scripts": {
@@ -40,6 +40,6 @@
   "exports": {
     ".": "./be-directive.js",
     "./be-directive.js": "./be-directive.js",
-    "./🗃️.js": "./🗃️.js"
+    "./📂⛏️.js": "./📂⛏️.js"
   }
 }
